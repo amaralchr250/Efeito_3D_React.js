@@ -1,9 +1,8 @@
 # Christopher 3D Animation with Three.js
 
-## Como usar!
+## Comandos!
 
 ```
 npm install
 npm run dev
-
 ```
